@@ -21,7 +21,7 @@ disable=raw-checker-failed,
 class-attribute-naming-style=snake_case
 
 [FORMAT]
-max-line-length=80
+max-line-length=100
 indent-after-paren=4
 
 [REFACTORING]
